@@ -1,4 +1,4 @@
-# CofeePy - A Penetration testing tool made in python ☕
+# CofeePy - A Penetration testing tool made in python :coffee:
 
 CoffeePy is a penentration testing tool made entirely in python and has tools like SQL injection, XSS, etc...
 
